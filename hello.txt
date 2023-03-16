@@ -1,3 +1,4 @@
 this is the Devops class training
 <html> read new</html>
 Complete this code
+watch out for the GUI commit
